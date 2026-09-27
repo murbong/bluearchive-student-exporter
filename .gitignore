@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+work/
+outputs/
+captures/
+*.csv
+*.json
+*.jsonl
+*.mitm
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+.env*
